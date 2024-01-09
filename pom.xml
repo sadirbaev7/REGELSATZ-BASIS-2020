@@ -3,10 +3,10 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.myspace</groupId>
-  <artifactId>REGELSATZ-EEMO-2020</artifactId>
+  <artifactId>REGELSATZ-BASIS-2020</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <packaging>kjar</packaging>
-  <name>REGELSATZ-EEMO-2020</name>
+  <name>REGELSATZ-BASIS-2020</name>
   <description></description>
   <dependencies>
     <dependency>
@@ -46,9 +46,9 @@
       <scope>test</scope>
     </dependency>
     <dependency>
-      <groupId>com.av360</groupId>
-      <artifactId>eemo</artifactId>
-      <version>1.7.0-rume</version>
+      <groupId>q</groupId>
+      <artifactId>q</artifactId>
+      <version>q</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
